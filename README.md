@@ -7,10 +7,10 @@ Utilize a simple Python library, the OpenWeatherMap API, and a little common sen
 
 # Objective
 Build a series of scatter plots to showcase the following relationships:
-• Temperature (F) vs. Latitude 
-• Humidity (%) vs. Latitude 
-• Cloudiness (%) vs. Latitude 
-• Wind Speed (mph) vs. Latitude
+- • Temperature (F) vs. Latitude 
+- • Humidity (%) vs. Latitude 
+- • Cloudiness (%) vs. Latitude 
+- • Wind Speed (mph) vs. Latitude
 
 # Source Files:
 - Citypy
@@ -25,7 +25,7 @@ Build a series of scatter plots to showcase the following relationships:
 ![alt text](https://github.com/DanielMJones2005/HW_Unit6_API/blob/master/output_data/20190721%20City_Lat_vs_Humidity.png)
 - 3. While wind speed also seems to be well distributed across latitudes, the average wind speed is 8.35 mph and the median wind speed is 6.93 mph.  The standard deviation is 5.7 mph.
   -- Average Wind Speed: 8.35
-  -- Median Wind Speed:6.93
-  -- Standard Deviation Wind Speed:5.7
+  -- Median Wind Speed: 6.93
+  -- Standard Deviation Wind Speed: 5.7
   
 ![alt text](https://github.com/DanielMJones2005/HW_Unit6_API/blob/master/output_data/20190721%20City_Lat_vs_Windspeed.png)
